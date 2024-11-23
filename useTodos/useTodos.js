@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todo.Reducer";
+import { todoReducer } from "./todo.Reducer";
 
 
 
